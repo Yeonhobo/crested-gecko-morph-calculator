@@ -57,7 +57,7 @@ export default function Main() {
         <Grid.Col xs={12} sm={6}>
           <DropdownList title={t('female')} setGenes={setFemaleGenes} />
         </Grid.Col>
-      </Grid> :
+      </Grid>
       <Box sx={{ width: '100%' }}>
         <CalcButton
           wholeMaleGenes={wholeMaleGenes}
