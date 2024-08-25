@@ -50,7 +50,7 @@ export default function Main() {
         borderRadius: '8px',
       }}
     >
-      <Grid>
+      <Grid sx={{ paddingBottom: '20px' }}>
         <Grid.Col xs={12} sm={6}>
           <DropdownList title={t('male')} setGenes={setMaleGenes} />
         </Grid.Col>
