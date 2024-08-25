@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/crested-gecko-morph-calculator/static/js/main.f9b6acc8.js",
+    "main.js": "/crested-gecko-morph-calculator/static/js/main.12b5c819.js",
     "static/media/NanumGothic.ttf": "/crested-gecko-morph-calculator/static/media/NanumGothic.46c03af3832f3527bd51.ttf",
     "static/media/NanumGothicBold.ttf": "/crested-gecko-morph-calculator/static/media/NanumGothicBold.356b763ec0165e2d3c7d.ttf",
     "static/media/NanumGothicBold.otf": "/crested-gecko-morph-calculator/static/media/NanumGothicBold.2bcc768d9a2b3a1f9b3a.otf",
     "static/media/NanumGothic.otf": "/crested-gecko-morph-calculator/static/media/NanumGothic.13ddaacbbbc836512c0b.otf",
     "index.html": "/crested-gecko-morph-calculator/index.html",
-    "main.f9b6acc8.js.map": "/crested-gecko-morph-calculator/static/js/main.f9b6acc8.js.map"
+    "main.12b5c819.js.map": "/crested-gecko-morph-calculator/static/js/main.12b5c819.js.map"
   },
   "entrypoints": [
-    "static/js/main.f9b6acc8.js"
+    "static/js/main.12b5c819.js"
   ]
 }
