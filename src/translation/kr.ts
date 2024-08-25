@@ -18,9 +18,6 @@ export const kr = {
         '크레스티드 게코는 성별에 따라 확률이 달라지는 모프가 없습니다! ',
       'free to type it': '아무쪽에나 편하게 입력해주세요!',
       'reporting': '궁금증이나 버그 제보 및 모프 추가는 ',
-      'instagram': '인스타그램 DM',
-      'or kakaotalk':
-        ' 혹은 같은 톡방에 계시거나 카톡 친구가 되어있다면 편하게 말씀 주세요:)',
       'donate': '개발자에게 커피 한 잔 후원하기',
       'calculating': '계산하기',
       'male': '수컷',

@@ -18,9 +18,7 @@ export const en = {
       'is not affected sex':
         "Crested Gecko doesn't have a morph whose probability varies by gender.",
       'free to type it': '',
-      'reporting': 'If you have any questions or add bugs and morphs, please ',
-      'instagram': 'Instagram DM',
-      'or kakaotalk': '',
+      'reporting': 'If you have any questions or add bugs and morphs, please send us a message.',
       'donate': 'Buy Me a Cup of Coffee',
       'calculating': 'Calculate',
       'male': 'Male',
