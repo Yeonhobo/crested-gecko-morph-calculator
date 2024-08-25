@@ -1,4 +1,4 @@
-import { Box, Container, Group } from '@mantine/core';
+import { Box, Container, Grid } from '@mantine/core';
 import { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import CalcButton from '../components/Button';
@@ -50,14 +50,14 @@ export default function Main() {
         borderRadius: '8px',
       }}
     >
-      <Group position='apart' grow sx={{ marginBottom: '20px' }}>
-        <Box sx={{ width: '100%' }}>
+      <Grid>
+        <Grid.Col xs={12} sm={6}>
           <DropdownList title={t('male')} setGenes={setMaleGenes} />
-        </Box>
-        <Box sx={{ width: '100%' }}>
+        </Grid.Col>
+        <Grid.Col xs={12} sm={6}>
           <DropdownList title={t('female')} setGenes={setFemaleGenes} />
-        </Box>
-      </Group>
+        </Grid.Col>
+      </Grid> :
       <Box sx={{ width: '100%' }}>
         <CalcButton
           wholeMaleGenes={wholeMaleGenes}
