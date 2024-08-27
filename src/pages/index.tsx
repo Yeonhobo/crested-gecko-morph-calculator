@@ -43,10 +43,10 @@ export default function Main() {
 
   return (
     <Container
+      size='sm'
       sx={{
-        width: '68%',
         boxShadow: '0 0 2px 1px rgb(0 0 0 / 10%)',
-        padding: result ? '30px 30px 0 30px' : '30px',
+        padding: result ? '0 30px 0 30px' : '0px 30px 30px 30px',
         borderRadius: '8px',
       }}
     >

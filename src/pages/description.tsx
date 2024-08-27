@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 function DescriptionList() {
   const { t } = useTranslation();
   return (
-    <Container>
+    <Container sx={{ paddingTop: '30px' }}>
       <List spacing={12}>
         <List.Item>
           {t('what is morph')}

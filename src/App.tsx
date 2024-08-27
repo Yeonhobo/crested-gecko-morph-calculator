@@ -12,8 +12,8 @@ function App() {
         </Header>
       }
     >
-      <DescriptionList />
       <Main />
+      <DescriptionList />
     </AppShell>
   );
 }

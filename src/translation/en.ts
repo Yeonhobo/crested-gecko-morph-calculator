@@ -2,7 +2,7 @@ export const en = {
   en: {
     translation: {
       'header': 'Crested Gecko Morph Calculator',
-      'what is morph': 'In that calculator, "morph" means ',
+      'what is morph': 'In the calculator, "morph" means ',
       'allele': 'inherited as an allele. ',
       'morph which cannot calc': 'Harlequin, pin, wall, etc. ',
       'can not calc': 'Cannot be calculated.',
