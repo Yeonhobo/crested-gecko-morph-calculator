@@ -19,7 +19,7 @@ function App() {
       <Text size='lg' fw={500} align='center' sx={{ paddingTop: '12px' }}>
         {t('header')}
       </Text>
-      <Divider my="sm" />
+      <Divider my="sm" sx={{ paddingBottom: '12px' }} />
       <Main />
       <DescriptionList />
     </>
