@@ -46,7 +46,7 @@ export default function Main() {
       size='sm'
       sx={{
         boxShadow: '0 0 2px 1px rgb(0 0 0 / 10%)',
-        padding: result ? '20px 30px 0 30px' : '20px 30px 30px 30px',
+        padding: result ? '0px 30px 0 30px' : '0px 30px 30px 30px',
         borderRadius: '8px',
       }}
     >

@@ -4,7 +4,7 @@ function HeaderContents() {
   const { t } = useTranslation();
 
   return (
-    <div className='header'>
+    <div>
       {t('header')}
     </div>
   );
